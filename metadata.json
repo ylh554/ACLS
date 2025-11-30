@@ -1,0 +1,5 @@
+{
+  "name": "ACLS Resus Assist Mobile",
+  "description": "A mobile-first, responsive ACLS resuscitation tool featuring real-time timers, protocol decision support, and event logging. Optimized for touch devices with screen wake lock and responsive layout.",
+  "requestFramePermissions": []
+}
